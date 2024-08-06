@@ -22,7 +22,7 @@
     "@angular/localize": "~12.2.16",
     "@angular/platform-browser": "~12.2.16",
     "@angular/platform-browser-dynamic": "~12.2.16",
-    "@angular/pwa": "~12.2.16",
+    "@angular/pwa": "~12.2.18",
     "@angular/router": "~12.2.16",
     "@angular/service-worker": "~12.2.16",
     "@handsontable/angular": "^5.1.1",
